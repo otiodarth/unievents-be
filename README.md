@@ -23,11 +23,11 @@ Início: 25-08-2024
 
 ## Documentação
 
-[Bounded contexts](docs/bounded_contexts.md)
+[Contextos](docs/bounded_contexts.md)
 
-[Conceptual model](docs/database_model.md)
+[Modelo conceitual](docs/database_model.md)
 
-## CHANGELOG
+### Changelog
 
 | Data | Descrição |
 | ---- | --------- |

@@ -44,7 +44,7 @@ O objetivo deste documento é apresentar os modelos de dados conceitual, lógico
 - Clareza na modelagem de dados
 - Facilitar a Comunicação e Alinhamento
 
-## CHANGELOG
+### Changelog
 
 | Data | Descrição |
 | ---- | --------- |

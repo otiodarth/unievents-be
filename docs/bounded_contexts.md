@@ -36,7 +36,7 @@ O objetivo deste documento é definir claramente as áreas de responsabilidade d
 - Redução de Acoplamento
 - Facilita a Escalabilidade
 
-## CHANGELOG
+### Changelog
 
 | Data       | Descrição                                                         |
 | ---------- | ----------------------------------------------------------------- |
