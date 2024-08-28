@@ -1,9 +1,9 @@
 | Tema            | Arquitetura |
 | --------------- | ----------- |
-| Data de criação | 25/08/2025  |
+| Data de criação | 25/08/2024  |
 | Responsável     | @vieira-a   |
-| Data de revisão | 25/08/2025  |
-| Versão          | 00          |
+| Data de revisão | 28/08/2024  |
+| Versão          | 01          |
 
 ## Visão geral
 
@@ -11,17 +11,17 @@ O objetivo deste documento é definir claramente as áreas de responsabilidade d
 
 ## Contextos Limitados
 
-![Bounded Contexts](docs/images/bounded_contexts.png)
+![Bounded Contexts](../docs/images/bounded_contexts.png)
 
 1. Event Management: este será o contexto principal, responsável pela criação e gerenciamento de eventos. Configura detalhes como: data, local e informações gerais do evento.
 
-2. Participant Management: este contexto gerencia as inscrições dos participantes, comunicação e check-in nos eventos.
+2. Atendee Management: este contexto gerencia as inscrições dos participantes, comunicação e check-in nos eventos.
 
 3. Event Lifecycle: este contexto é responsável pelo acompanhamento e registro do cliclo de vida completo dos eventos, desde a criação até conclusão e emissão de relatórios.
 
 4. Notification: contexto responsável por notificar participentes acerca de novos eventos, bem como enviar solicitações de avaliação e certificados de participação.
 
-5. Reviews and Ratings: este contexto é responsável por gerenciar as avaliações de eventos enviadas pelos participantes.
+5. Evaluations: este contexto é responsável por gerenciar as avaliações de eventos enviadas pelos participantes.
 
 6. Certification: contexto responsável por emitir certificados de participação para os participantes dos eventos.
 
@@ -35,3 +35,10 @@ O objetivo deste documento é definir claramente as áreas de responsabilidade d
 - Facilitar a Comunicação e Alinhamento
 - Redução de Acoplamento
 - Facilita a Escalabilidade
+
+## CHANGELOG
+
+| Data       | Descrição                                                         |
+| ---------- | ----------------------------------------------------------------- |
+| 28/08/2024 | Renomeia contexto: Participant Management para Atendee Management |
+| 28/08/2024 | Renomeia contexto: Reviews and Ratings para Evaluations           |
