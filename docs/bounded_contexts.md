@@ -1,7 +1,7 @@
 | Tema            | Arquitetura |
 | --------------- | ----------- |
 | Data de criação | 25/08/2024  |
-| Responsável     | @vieira-a   |
+| Responsável     | @otiodarth  |
 | Data de revisão | 28/08/2024  |
 | Versão          | 01          |
 

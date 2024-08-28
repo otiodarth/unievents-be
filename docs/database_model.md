@@ -1,7 +1,7 @@
 | Tema            | Banco de dados |
 | --------------- | -------------- |
 | Data de criação | 28/08/2024     |
-| Responsável     | @vieira-a      |
+| Responsável     | @otiodarth     |
 | Data de revisão | 28/08/2024     |
 | Versão          | 00             |
 
